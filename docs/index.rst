@@ -2,7 +2,7 @@
 PolyParGen Manual
 =================
 
-PolyParGen which provides OPLS-AA and Amber force field parameters for polymers or large molecules.
+PolyParGen provides OPLS-AA and Amber force field parameters for polymers or large molecules.
 In the case that PolyParGen generates OPLS-AA parameters, PolyParGen leverages LigParGen [2] and BOSS [3]. 
 On the other hand, PolyParGen leverages Antechamber [4] and ACPYPE [5] to make Amber parameters.
 If users want to use the atomic charge of ab initio calculation, user just select the option of ab initio calculation. Ab initio software is NWChem [6].
