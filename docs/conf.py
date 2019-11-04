@@ -189,8 +189,8 @@ htmlhelp_basename = 'help'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'testpdf.tex', u'testpdf Documentation',
-   u'test', 'manual'),
+  ('index', 'polypargen_manual.tex', u'PolyParGen Manual',
+   u'PolyParGen-team', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
