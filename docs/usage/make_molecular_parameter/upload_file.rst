@@ -15,4 +15,12 @@ Users push the following image in PolyParGen front page.
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
+At first, users have to registrate their information to use PolyParGen.
+E-mail address certainly is needed in user's informaiton, because PolyParGen sends that parameter file to user's e-mail after generation of molecular parameter.
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/upload_file_002.png                                    |
+  |    :scale: 70 %                                                          |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
 
