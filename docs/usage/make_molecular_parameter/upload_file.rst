@@ -51,6 +51,7 @@ Step2, users upload the molecule file from the following buttom.
 
 Step3, users select PolyParGen version, a kind of parameter and atomic charge. 
 - Select PolyParGen version
+
 In the case of simple linear polymer, users select v1 because v1 faster than v2.
 However, we recomended users select v2.
 
