@@ -27,7 +27,7 @@ The users, which already registrated, pass this step.
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
-Next, users upload the molecule file from the following buttom.
+| Next, users upload the molecule file from the following buttom.
 
   +--------------------------------------------------------------------------+
   | .. image:: ./imgs/upload_file_004.png                                    |
@@ -35,6 +35,7 @@ Next, users upload the molecule file from the following buttom.
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
+|
 .. note::
 
     The uploaded file format, which we recommend, is `CML file format <https://en.wikipedia.org/wiki/Chemical_Markup_Language>`_ ,
