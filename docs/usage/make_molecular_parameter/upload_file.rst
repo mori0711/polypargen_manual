@@ -23,4 +23,7 @@ E-mail address certainly is needed in user's informaiton, because PolyParGen sen
   |    :scale: 70 %                                                          |
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
-
+  | .. image:: ./imgs/upload_file_003.png                                    |
+  |    :scale: 70 %                                                          |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
