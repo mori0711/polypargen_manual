@@ -12,7 +12,7 @@ This site shows how to use the PolyParGen.
 Content
 =======
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :numbered:
     :glob:
 
