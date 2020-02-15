@@ -37,13 +37,20 @@ Step3, users confirm the drawn molecule in a 3D structure from with "generate 3D
 
 Step4, user setect the options for making molecular parameter.
 
+This is the window of Step4.
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/draw_molecule_005.png                                  |
+  |    :scale: 100 %                                                         |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
 - Select PolyParGen version
 
-In the case of simple linear polymer, users select v1 because v1 faster than v2.
-However, we recomended users select v2.
+At present, the support of PolyParGen version 1 has been suspended to create accurate potential parameters.
+Users select PolyParGen version 1
 
   +--------------------------------------------------------------------------+
-  | .. image:: ./imgs/upload_file_005.png                                    |
+  | .. image:: ./imgs/draw_molecule_006.png                                  |
   |    :scale: 100 %                                                         |
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
