@@ -16,7 +16,8 @@ Users can select the method from them in PolyParGen front page.
 -------------------------------------------------------------------------------------------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    make_molecular_parameter/upload_file
+   make_molecular_parameter/draw_molecule
 

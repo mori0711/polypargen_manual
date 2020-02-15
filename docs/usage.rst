@@ -9,3 +9,4 @@ In the following it is shown how to use PolyParGen.
 
    usage/make_molecular_parameter
    usage/make_molecule
+
