@@ -38,9 +38,10 @@ Step3, users confirm the drawn molecule in a 3D structure from with "generate 3D
 Step4, user setect the options for making molecular parameter.
 
 This is the window of Step4.
+
   +--------------------------------------------------------------------------+
   | .. image:: ./imgs/draw_molecule_005.png                                  |
-  |    :scale: 100 %                                                         |
+  |    :scale: 70 %                                                          |
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
