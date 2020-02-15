@@ -77,3 +77,14 @@ In the case of Amber parameter, users select an atomic charge evaluation method 
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
+- Set the number of fragment's atoms
+Users set the number of atoms contained in one fragment. 
+The default value is 150 atoms. Basically, the default value is recommended.
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/draw_molecule_008.png                                  |
+  |    :scale:  70 %                                                         |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
+
