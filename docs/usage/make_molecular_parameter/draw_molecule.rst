@@ -1,6 +1,6 @@
-===========
-Upload File
-===========
+=============
+Draw Molecule
+=============
 
 This page shows how to make molecular mapameter from the drawed molecule.
 
