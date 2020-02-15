@@ -118,3 +118,5 @@ Users have to input your e-mail.
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
+Finaly, users push "Submit Molecule" button.
+
