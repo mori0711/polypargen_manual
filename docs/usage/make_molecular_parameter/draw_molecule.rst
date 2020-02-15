@@ -97,3 +97,24 @@ users have to set "0".
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
+- Whether to evaluate atomic charges by ab initio calculation.
+If users want to select the estimated atomic charge by ab initio calculation, users select this option.
+Also, users have to select the method, basis function and charge densith of method.
+ESP is the electrostatic potential fitting method. Mulliken is Mulliken density analysis.
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/draw_molecule_009.png                                  |
+  |    :scale:  80 %                                                         |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
+Step5,Input the registrated e-mail address.
+After PolyParGen makes the moleculer parameter, the molecule's parameter files are sent to the registrated e-mail address.
+Users have to input your e-mail.
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/draw_molecule_011.png                                  |
+  |    :scale:  80 %                                                         |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
