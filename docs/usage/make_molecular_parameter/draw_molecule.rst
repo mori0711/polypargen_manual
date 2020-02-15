@@ -27,3 +27,24 @@ The users, which already registrated, pass this step.
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
+Step3, users confirm the drawn molecule in a 3D structure from with "generate 3D" button. If the molecule has a different structure, users draw the molecule again.
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/draw_molecule_004.png                                  |
+  |    :scale: 70 %                                                          |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
+Step4, user setect the options for making molecular parameter.
+
+- Select PolyParGen version
+
+In the case of simple linear polymer, users select v1 because v1 faster than v2.
+However, we recomended users select v2.
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/upload_file_005.png                                    |
+  |    :scale: 100 %                                                         |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
