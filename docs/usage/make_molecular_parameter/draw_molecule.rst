@@ -27,6 +27,18 @@ The users, which already registrated, pass this step.
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
+Step2, users draw a molecule under our drawer tool.
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/draw_molecule_002.png                                  |
+  |    :scale: 100 %                                                         |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/draw_molecule_003.png                                  |
+  |    :scale: 70 %                                                          |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
 Step3, users confirm the drawn molecule in a 3D structure from with "generate 3D" button. If the molecule has a different structure, users draw the molecule again.
 
   +--------------------------------------------------------------------------+
