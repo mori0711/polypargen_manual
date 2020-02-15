@@ -87,4 +87,13 @@ The default value is 150 atoms. Basically, the default value is recommended.
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
+- Extra options
+For large-scale conjugated molecules such as graphene and fullerene, 
+users have to set "0".
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/draw_molecule_009.png                                  |
+  |    :scale:  80 %                                                         |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
 
