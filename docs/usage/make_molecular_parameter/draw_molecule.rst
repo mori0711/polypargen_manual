@@ -83,7 +83,7 @@ The default value is 150 atoms. Basically, the default value is recommended.
 
   +--------------------------------------------------------------------------+
   | .. image:: ./imgs/draw_molecule_008.png                                  |
-  |    :scale:  70 %                                                         |
+  |    :scale:  80 %                                                         |
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
