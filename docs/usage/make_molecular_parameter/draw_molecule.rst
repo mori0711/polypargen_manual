@@ -48,10 +48,21 @@ This is the window of Step4.
 - Select PolyParGen version
 
 At present, the support of PolyParGen version 1 has been suspended to create accurate potential parameters.
-Users select PolyParGen version 1
+Users select PolyParGen version 2 (v2).
 
   +--------------------------------------------------------------------------+
   | .. image:: ./imgs/draw_molecule_006.png                                  |
+  |    :scale: 100 %                                                         |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
+- Select the type of Lennard-Jones potential
+
+Users select OPLS-AA or Amber parameter. 
+In the case of Amber parameter, users select an atomic charge evaluation method (bcc or gas).
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/draw_molecule_007.png                                  |
   |    :scale: 100 %                                                         |
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
