@@ -47,20 +47,79 @@ Step2, users upload the molecule file from the following buttom.
    - The current version can not apply for cation and anion molecule.
    - Users have to add hydrogen atoms for molecules which are made without hydrogenation.
    - 1 file have to set absolutely 1 molecule without solvent.
+   - Input files only supporte CML format. Aromatic notation is not supported, describe in single bond and double bond.
 
 
-Step3, users select PolyParGen version, a kind of parameter and atomic charge. 
+Step3, user setect the options for making molecular parameter.
 
-- Select PolyParGen version
-
-In the case of simple linear polymer, users select v1 because v1 faster than v2.
-However, we recomended users select v2.
+This is the window of Step4.
 
   +--------------------------------------------------------------------------+
   | .. image:: ./imgs/upload_file_005.png                                    |
+  |    :scale: 65 %                                                          |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
+- Select PolyParGen version
+At present, the support of PolyParGen version 1 has been suspended to create accurate potential parameters.
+Users select PolyParGen version 2 (v2).
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/upload_file_006.png                                    |
   |    :scale: 100 %                                                         |
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
+- Select the type of Lennard-Jones potential
+Users select OPLS-AA or Amber parameter. 
+In the case of Amber parameter, users select an atomic charge evaluation method (bcc or gas).
 
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/upload_file_007.png                                    |
+  |    :scale: 100 %                                                         |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
+- Set the number of fragment's atoms
+Users set the number of atoms contained in one fragment. 
+The default value is 150 atoms. Basically, the default value is recommended.
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/upload_file_008.png                                    |
+  |    :scale:  80 %                                                         |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
+- Extra options
+For large-scale conjugated molecules such as graphene and fullerene, 
+users have to set "0".
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/upload_file_009.png                                    |
+  |    :scale:  80 %                                                         |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
+- Whether to evaluate atomic charges by ab initio calculation.
+If users want to select the estimated atomic charge by ab initio calculation, users select this option.
+Also, users have to select the method, basis function and charge densith of method.
+ESP is the electrostatic potential fitting method. Mulliken is Mulliken density analysis.
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/upload_file_010.png                                    |
+  |    :scale:  80 %                                                         |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
+Step4,Input the registrated e-mail address.
+After PolyParGen makes the moleculer parameter, the molecule's parameter files are sent to the registrated e-mail address.
+Users have to input your e-mail.
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/upload_file_011.png                                    |
+  |    :scale:  80 %                                                         |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
+Finaly, users push "Submit Molecule" button.
 
