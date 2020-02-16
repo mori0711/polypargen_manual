@@ -55,7 +55,7 @@ Step3, user setect the options for making molecular parameter.
 This is the window of Step4.
 
   +--------------------------------------------------------------------------+
-  | .. image:: ./imgs/upload_file_005.png                                    |
+  | .. image:: ./imgs/draw_molecule_005.png                                  |
   |    :scale: 65 %                                                          |
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
